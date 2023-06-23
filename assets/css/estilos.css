@@ -2,6 +2,10 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+.navbar-brand h2 {
+  font-weight: 900;
+}
+
 /* Hero Section */
 
 #Hero-Section {
@@ -32,8 +36,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
